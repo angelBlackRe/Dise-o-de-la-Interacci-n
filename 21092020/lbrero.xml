@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8">
+<!DOCTYPE librero SYSTEM "librero.dtd">
+<?xml-stylesheet href="librero.css" type="text/css"?>
+<librero>
+  <libro>
+    <titulo>fundamento de base de datos</titulo>
+    <autor>Korth</autor>
+    <autor>sudersarahi</autor>
+    <editorial>Mc Graw Hill</editorial>
+  </libro>
+  <libro>
+    <titulo>matemáticas básicas</titulo>
+    <editorial>pearson</editorial>
+</librero> 
