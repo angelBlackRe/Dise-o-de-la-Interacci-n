@@ -1,13 +1,13 @@
-#clase para el objeto revista 
+# clase para el objeto revista
 class Revista():
-    def __init__(self,nombreR,articulosR,editorialR,fechaEmision):
-        #constructor
+    def __init__(self, nombreR, articulosR, editorialR, fechaEmision):
+        # constructor
         self.nombreR = nombreR
         self.articulosR = articulosR
         self.editorialR = editorialR
         self.fechaEmision = fechaEmision
-    
-    #metodo
+
+    # metodo
 
     def muestra(self):
         print(80*"-")
