@@ -2,6 +2,7 @@ from libro import Libro
 from disco import Disco
 from revista import Revista
 from comic import Comic
+from manga import Manga
 
 
 class Librero:
@@ -34,8 +35,12 @@ class Librero:
         print("Revistas")
         self.librerito.append(revis)
 
+# Comic
     def agregarComic(self, comic):
         print("Comic")
         self.librerito.append(comic)
 
 # Manga
+  def agregaManga(self,mnga):
+    print("Mangas\n")
+    self.librerito.append(mnga)
