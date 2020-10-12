@@ -34,8 +34,12 @@ class Librero:
         print("Revistas")
         self.librerito.append(revis)
 
+# Comic
     def agregarComic(self, comic):
         print("Comic")
         self.librerito.append(comic)
 
 # Manga
+    def agregaManga(self,mnga):
+        print("Mangas\n")
+        self.librerito.append(mnga)
