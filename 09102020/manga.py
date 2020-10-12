@@ -1,6 +1,6 @@
 # Clase Manga
 class Manga:
-    def __init__(self, titulo="", autor="", numero="", tomo="", editorial=""):
+    def __init__(self, titulo="", autor="", numero="", tomo="", editorialM=""):
 
         self.tituloM = tituloM
         self.autorM = autorM
